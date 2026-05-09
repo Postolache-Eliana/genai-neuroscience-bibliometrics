@@ -1,0 +1,28 @@
+```gitignore
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw data exports
+data/raw/
+
+# Local environment files
+.env
+
+# Python packaging
+*.egg-info/
+
+# IDE settings
+.vscode/
+.idea/
