@@ -26,3 +26,10 @@ data/raw/
 # IDE settings
 .vscode/
 .idea/
+
+# Local project configuration
+config/local_config.py
+
+# Local exports
+*.log
+*.tmp
